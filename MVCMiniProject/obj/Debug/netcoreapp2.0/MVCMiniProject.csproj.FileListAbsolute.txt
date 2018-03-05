@@ -9,3 +9,14 @@ C:\Users\Administrator\source\repos\ProjectGroups\MVCMiniProject\obj\Debug\netco
 C:\Users\Administrator\source\repos\ProjectGroups\MVCMiniProject\obj\Debug\netcoreapp2.0\MVCMiniProject.AssemblyInfo.cs
 C:\Users\Administrator\source\repos\ProjectGroups\MVCMiniProject\obj\Debug\netcoreapp2.0\MVCMiniProject.dll
 C:\Users\Administrator\source\repos\ProjectGroups\MVCMiniProject\obj\Debug\netcoreapp2.0\MVCMiniProject.pdb
+C:\Users\Andreas Sundin\Source\Repos\ProjectGroups2\MVCMiniProject\obj\Debug\netcoreapp2.0\MVCMiniProject.csprojResolveAssemblyReference.cache
+C:\Users\Andreas Sundin\Source\Repos\ProjectGroups2\MVCMiniProject\obj\Debug\netcoreapp2.0\MVCMiniProject.csproj.CoreCompileInputs.cache
+C:\Users\Andreas Sundin\Source\Repos\ProjectGroups2\MVCMiniProject\obj\Debug\netcoreapp2.0\MVCMiniProject.AssemblyInfoInputs.cache
+C:\Users\Andreas Sundin\Source\Repos\ProjectGroups2\MVCMiniProject\obj\Debug\netcoreapp2.0\MVCMiniProject.AssemblyInfo.cs
+C:\Users\Andreas Sundin\Source\Repos\ProjectGroups2\MVCMiniProject\obj\Debug\netcoreapp2.0\MVCMiniProject.dll
+C:\Users\Andreas Sundin\Source\Repos\ProjectGroups2\MVCMiniProject\obj\Debug\netcoreapp2.0\MVCMiniProject.pdb
+C:\Users\Andreas Sundin\Source\Repos\ProjectGroups2\MVCMiniProject\bin\Debug\netcoreapp2.0\MVCMiniProject.deps.json
+C:\Users\Andreas Sundin\Source\Repos\ProjectGroups2\MVCMiniProject\bin\Debug\netcoreapp2.0\MVCMiniProject.runtimeconfig.json
+C:\Users\Andreas Sundin\Source\Repos\ProjectGroups2\MVCMiniProject\bin\Debug\netcoreapp2.0\MVCMiniProject.runtimeconfig.dev.json
+C:\Users\Andreas Sundin\Source\Repos\ProjectGroups2\MVCMiniProject\bin\Debug\netcoreapp2.0\MVCMiniProject.dll
+C:\Users\Andreas Sundin\Source\Repos\ProjectGroups2\MVCMiniProject\bin\Debug\netcoreapp2.0\MVCMiniProject.pdb
