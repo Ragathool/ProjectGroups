@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\ProjectGroups\MVCMiniProject\bin\Debug\netcoreapp2.0\MVCMiniProject.deps.json
+C:\Users\Administrator\source\repos\ProjectGroups\MVCMiniProject\bin\Debug\netcoreapp2.0\MVCMiniProject.runtimeconfig.json
+C:\Users\Administrator\source\repos\ProjectGroups\MVCMiniProject\bin\Debug\netcoreapp2.0\MVCMiniProject.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ProjectGroups\MVCMiniProject\bin\Debug\netcoreapp2.0\MVCMiniProject.dll
+C:\Users\Administrator\source\repos\ProjectGroups\MVCMiniProject\bin\Debug\netcoreapp2.0\MVCMiniProject.pdb
+C:\Users\Administrator\source\repos\ProjectGroups\MVCMiniProject\obj\Debug\netcoreapp2.0\MVCMiniProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\ProjectGroups\MVCMiniProject\obj\Debug\netcoreapp2.0\MVCMiniProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ProjectGroups\MVCMiniProject\obj\Debug\netcoreapp2.0\MVCMiniProject.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ProjectGroups\MVCMiniProject\obj\Debug\netcoreapp2.0\MVCMiniProject.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ProjectGroups\MVCMiniProject\obj\Debug\netcoreapp2.0\MVCMiniProject.dll
+C:\Users\Administrator\source\repos\ProjectGroups\MVCMiniProject\obj\Debug\netcoreapp2.0\MVCMiniProject.pdb
