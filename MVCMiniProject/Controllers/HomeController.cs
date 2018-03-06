@@ -4,15 +4,24 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using MVCMiniProject.Models;
+using MVCMiniProject.Models.Entities;
 using MVCMiniProject.Models.ViewModels;
 
 namespace MVCMiniProject.Controllers
 {
     public class HomeController : Controller
     {
+        private readonly HuginRepository repository;
+
+        public HomeController(HuginRepository repository)
+        {
+            this.repository = repository;
+        }
+
         public IActionResult Index()
         {
-           return View();
+            var model = repository.GetAllGroups();
+            return View(model);
         }
 
         public IActionResult Edit()
@@ -22,7 +31,8 @@ namespace MVCMiniProject.Controllers
 
         public IActionResult Create()
         {
-            return View();
+            var model = repository.PrintGroupForm();
+            return View(model);
         }
 
 

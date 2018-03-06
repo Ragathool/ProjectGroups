@@ -1,10 +1,32 @@
-﻿<!DOCTYPE html>
+﻿@model MVCMiniProject.Models.ViewModels.GroupIndexVM[]
+<!DOCTYPE html>
 <html>
 <head>
     <title> HOME/INDEX </title>
 </head>
 <body>
     <h1>HOME/INDEX</h1>
+    @foreach (var item in Model)
+    {
+        @item.GroupName
+    <br />
+        @item.Description
+        <br />
+        @foreach (var person in item.GroupPersons)
+        {
+            @person.Name
+        <br />
+        }
+        <br />
+        @foreach (var tech in item.GroupTechs)
+        {
+            @tech.Name
+        <br />
+        }
+        <hr />
+    }
+    <hr />
+
 
 </body>
 </html>
