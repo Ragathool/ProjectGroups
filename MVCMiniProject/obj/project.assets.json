@@ -13123,7 +13123,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Andreas Sundin\\.nuget\\packages\\": {},
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -13132,18 +13133,20 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andreas Sundin\\Source\\Repos\\ProjectGroups2\\MVCMiniProject\\MVCMiniProject.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\ProjectGroups2\\MVCMiniProject\\MVCMiniProject.csproj",
       "projectName": "MVCMiniProject",
-      "projectPath": "C:\\Users\\Andreas Sundin\\Source\\Repos\\ProjectGroups2\\MVCMiniProject\\MVCMiniProject.csproj",
-      "packagesPath": "C:\\Users\\Andreas Sundin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andreas Sundin\\Source\\Repos\\ProjectGroups2\\MVCMiniProject\\obj\\",
+      "projectPath": "C:\\Users\\Administrator\\source\\repos\\ProjectGroups2\\MVCMiniProject\\MVCMiniProject.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrator\\source\\repos\\ProjectGroups2\\MVCMiniProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Andreas Sundin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
